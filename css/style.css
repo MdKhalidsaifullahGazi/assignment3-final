@@ -265,6 +265,8 @@ nav	ul	li	a:hover {
     padding: 4px 78px;
     background-color: #f5f5f5;
     border-radius: 22px;
+    border-style: double;
+    border-width: 7px;
 }
 
 .technology-section{
